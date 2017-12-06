@@ -1,0 +1,2 @@
+# RulesForShadowrocket
+Shadowrocket的个人定制款规则，从Hackl0us/Surge-Rule-Snippets处FORK
