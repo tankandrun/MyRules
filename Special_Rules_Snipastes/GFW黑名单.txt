@@ -1,4 +1,5 @@
 # 4813 Rules from GFWList (GFWListToSurgeRule.js http://s5s5.github.io/GFWListToSurgeRule.js/)
+
 DOMAIN,blog.ontrac.com,DIRECT
 DOMAIN,store.sprite.org,DIRECT
 DOMAIN,xx.wwwhost.biz,DIRECT
@@ -143,6 +144,7 @@ DOMAIN-SUFFIX,weibo.com,DIRECT
 DOMAIN-SUFFIX,yahoo.cn,DIRECT
 DOMAIN-SUFFIX,youdao.com,DIRECT
 DOMAIN-SUFFIX,zhongsou.com,DIRECT
+
 DOMAIN,85.17.73.31,Proxy
 DOMAIN,img.dlsite.jp,Proxy
 DOMAIN,share.dmhy.org,Proxy
