@@ -1,5 +1,5 @@
-# RulesForShadowrocket
-Shadowrocket的个人定制款规则，从Hackl0us/Surge-Rule-Snippets处FORK。
+# MyRules
+个人定制款规则，从Hackl0us/Surge-Rule-Snippets处FORK。
 
 取消了对Surge，Potatso 2等的支持。
 
